@@ -1,4 +1,4 @@
-<header>
+<T5G>
 
 <!--
   <<< Author notes: Course header >>>
@@ -41,9 +41,10 @@ In this course, you will:
 <!-- For start course, run in JavaScript:
 'https://github.com/new?' + new URLSearchParams({
   template_owner: 'skills',
-  template_name: 'introduction-to-github',
+  template_name: 'T5G-mpoityu',
   owner: '@me',
-  name: 'skills-introduction-to-github',
+  name: 'T5G-mpoityu![1000003668](https://github.com/user-attachments/assets/f25e5292-4c29-45aa-be75-64d6da175506)
+',
   description: 'My clone repository',
   visibility: 'public',
 }).toString()
